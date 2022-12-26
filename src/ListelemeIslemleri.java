@@ -73,7 +73,7 @@ public class ListelemeIslemleri {
                 ListelemeIslemleri.satisGecmisi();
             } else if (getSecim() == 10) {
                 MesajYonet mesajYonet = new MesajYonet(new Mesaj());
-                mesajYonet.Add();ğ+
+                mesajYonet.Add();
 
                 break;
             } else {
